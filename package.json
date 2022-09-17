@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "reyyy bot",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By reyyy",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/WH-MODS-BOT/fix-bot-v1",
+    "homepage": "https://github.com/reyznnnx/fix-bot-v1",
     "author": {
-        "name": "WH-MODS-BOT"
+        "name": "reyznnnx"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WH-MODS-BOT/fix-bot-v1"
+        "url": "git+https://github.com/reyznnnnx/fix-bot-v1"
     },
     "bugs": {
-        "url": "https://github.com/WH-MODS-BOT/fix-bot-v1/"
+        "url": "https://github.com/reyznnnx/fix-bot-v1/"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
